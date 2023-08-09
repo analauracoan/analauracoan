@@ -2,7 +2,7 @@
 
 # Seja bem-vindo, meu nome é Ana Laura
 
-<p>Sou nova em programação, mas sempre estou inventando alguma coisa (simples, mas tentando :D), principalmente nas linguages:</p>
+<p>Sou nova em programação, mas sempre estou inventando alguma coisa (simples, mas tentando :D), principalmente nas linguagens:</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analauracoan)](https://github.com/anuraghazra/github-readme-stats)
 
