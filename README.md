@@ -1,4 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3943B7&height=180&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DF928E&height=180&section=header" />
+
+# Seja bem-vindo, meu nome é Ana Laura
+
+<p>Sou nova em programação, mas sempre estou inventando alguma coisa (simples, mas tentando :D), principalmente nas linguages:</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analauracoan)](https://github.com/anuraghazra/github-readme-stats)
+
+![](gato_digitando.gif)
+
 
 <!--
 **analauracoan/analauracoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
