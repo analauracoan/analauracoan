@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=DF928E&height=180&section=header" />
-
-# Seja bem-vindo, meu nome é Ana Laura
+#Seja bem-vindo, meu nome é Ana Laura
 
 Sou nova em programação, mas sempre estou inventando alguma coisa (simples, mas tentando :D), principalmente nas linguagens:
 
