@@ -2,24 +2,10 @@
 
 # Seja bem-vindo, meu nome é Ana Laura
 
-<p>Sou nova em programação, mas sempre estou inventando alguma coisa (simples, mas tentando :D), principalmente nas linguagens:</p>
+Sou nova em programação, mas sempre estou inventando alguma coisa (simples, mas tentando :D), principalmente nas linguagens:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analauracoan)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](gato_digitando.gif)
 
-
-<!--
-**analauracoan/analauracoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fique a vontade para ver meus projetos:
