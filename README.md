@@ -6,4 +6,4 @@ Sou nova em programação, mas sempre estou inventando alguma coisa (simples, ma
 
 ![](gato_digitando.gif)
 
-Fique a vontade para ver meus projetos:
+Fique a vontade para ver meus repositórios:
