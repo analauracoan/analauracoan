@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3943B7&height=180&section=header" />
 
 <!--
 **analauracoan/analauracoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
