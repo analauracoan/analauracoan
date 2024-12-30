@@ -22,4 +22,4 @@
 
 🌟 Obrigada por visitar meu perfil! Sinta-se à vontade para explorar meus projetos e conectar-se comigo! 💌
 
-![](https://github.com/analauracoan/analauracoan/blob/main/sarati%20Shop%20_%20Redbubble.jpeg)
+![](https://github.com/analauracoan/analauracoan/blob/main/_%20(1).gif)
